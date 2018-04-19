@@ -31,4 +31,5 @@ A jogviszony scannelve es a regisztracio soran csatolva elerhetove vallnak a ked
 - [GitHub student pack](https://education.github.com) - Szamos mas ceg altal githubon keresztul elerheto kedvezmenyeit elvezhetjuk, mint pl.: TravisCI vagy DigitalOcean.
 - :email: [Prezi](https://prezi.com/pricing/) - eloadasok keszitesere 
 - [Spotify](https://www.spotify.com/hu/student/) - Online zene felaron
+- [ MUSIC](https://applemusic-spotlight.myunidays.com) - Apple Music felaron
 - [MSDNA](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=a19810d2-bb0c-e111-a703-f04da23e67f6&vsro=8) - Microsoft fejlesztoi termekek igyenesesen
